@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560926959201",
+    "project_id": "battery-low-6783f",
+    "storage_bucket": "battery-low-6783f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560926959201:android:fe6c8993a740f7620aac20",
+        "android_client_info": {
+          "package_name": "com.example.battery_low"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Lp1RH6Z1qscMv_AkSWOcnUFS5Cj_W3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
