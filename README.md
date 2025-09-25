@@ -33,17 +33,13 @@ app/
 ├── activity_main.xml
 ├── activity_home.xml
 ├── activity_admin.xml
-
-yaml
-Copy code
-
 ---
 
 ## 🔧 Setup Instructions
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-repo/battery-low.git
+git clone https://github.com/your-repo/battery-low.git
 Connect Firebase
 
 Create a Firebase project
@@ -58,7 +54,6 @@ Dependencies
 Add the following in app/build.gradle:
 
 gradle
-Copy code
 implementation platform('com.google.firebase:firebase-bom:32.0.0')
 implementation 'com.google.firebase:firebase-auth'
 implementation 'com.google.firebase:firebase-database'
@@ -76,7 +71,6 @@ Copy code
     </intent-filter>
 </service>
 Server Key
-
 Replace the Authorization header in Admin.kt with your Firebase Cloud Messaging Server Key.
 
 🔑 Key Code Snippets
