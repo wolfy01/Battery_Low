@@ -37,11 +37,12 @@ app/
       ├── activity_home.xml
       ├── activity_admin.xml
 
+
 🔧 Setup Instructions
 1. Clone the repo
 git clone https://github.com/wolfy01/Battery_Low.git
 
-2. Connect Firebase
+. Connect Firebase
 
 Create a Firebase project
 
@@ -49,7 +50,7 @@ Enable Authentication → Email/Password
 
 Create a Realtime Database
 
-Add your google-services.json file to the app/ folder
+Add your google-services.json file into the app/ folder
 
 3. Add dependencies
 
