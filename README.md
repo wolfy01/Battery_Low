@@ -93,5 +93,5 @@ Separate login/signup flow for Admin users
 
 👨‍💻 Author
 
-Built with ❤️ by Nihal Azman
+Built by Nihal Azman
 GitHub: @wolfy01
